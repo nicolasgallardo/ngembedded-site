@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "NG Embedded",
   description: "Embedded Systems & Hardware Consultant",
